@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ameenul1
 - 👀 I’m interested in flutter and dsa 
-- 🌱 I’m currently react
+- 🌱 I’m currently learning react
 
 <!---
 Ameenul1/Ameenul1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
