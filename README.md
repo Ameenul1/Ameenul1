@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ameenul1
-- 👀 I’m interested mobile development
+- 👀 I’m interested in mobile development
 
 <!---
 Ameenul1/Ameenul1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
